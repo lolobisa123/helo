@@ -1,7 +1,15 @@
 h1 {
-  text-align: center; color: pink ; font-size: 80px; font: verdana
+  text-align: center; color: #844cb3 ; font-size: 80px; font: verdana
 }
 
 p {
-  text-align: center; color: purple ; font-size: 40; font: verdana
+  text-align: center; color: #ffb6c8 ; font-size: 50px; font: verdana
+}
+
+p1 {
+  text-align: : center; color: #414141 ; font-size: 35px; font: verdana
+}
+
+p2 {
+ text-align: : center; color: #414141 ; font-size: 30px; font: verdana
 }
