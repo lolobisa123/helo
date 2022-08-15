@@ -3,21 +3,28 @@ h1 {
 }
 logo
 p {
-  text-align: center; color: #ffb6c8 ; font-size: 50px; font: verdana
+  text-align:center; color: #383838 ; font-size: 30px; font: verdana
+}
+p {
+  text-align:center; color: #383838 ; font-size: 30px; font: verdana
+}
+p {
+  text-align:center; color: #383838 ; font-size: 30px; font: verdana
+}
+p {
+  text-align:center; color: #383838 ; font-size: 30px; font: verdana
+}
+p {
+  text-align:center; color: #383838 ; font-size: 30px; font: verdana
 }
 
-p {
-  text-align: : center; color: #414141 ; font-size: 50px; font: verdana
+img {
+  width: 35%;
 }
-
-p {
- text-align: : center; color: #414141 ; font-size: 30px; font: verdana
+img {
+  width: 35%;
 }
 
 body{
   background-color: #fcf4d4
-}
-
-.logo {
-   align-items: center;
 }
