@@ -19,12 +19,16 @@ p {
 }
 
 img {
-  width: 35%; alt="700" style="padding-left: 600px
+   width: 35%; alt="700" style="padding-left: 600px
 }
 img {
-  width: 35%; alt="700" style="padding-left: 600px;
+ width: 35%; alt="700" style="padding-left: 600px;
 }
 
 body{
   background-color: #fcf4d4
+}
+
+ul{
+ color: #383838 ; font-size: 30px; font: verdana
 }
