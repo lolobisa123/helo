@@ -1,31 +1,7 @@
-
-logo
-p {
-  text-align:center; color: #383838 ; font-size: 30px; font: verdana
-}
-p {
-  text-align:center; color: #383838 ; font-size: 30px; font: verdana
-}
-h1{
-  text-align: center;center; color: #383838; font-weight:bolder; font-size: 50px
-}
-h2{
-  text-align: center;center; color: #383838; font-weight: bold; font-size: 45px
-}
-img {
-   width: 20%; alt="700" style="padding-left: 800px
-}
-img {
- width: 35%; alt="700" style="padding-left: 600px;
+img{
+  width:1900px; height:710px;
 }
 
 body{
   background-color: #fcf4d4
-}
-
-ul{
- color: #383838 ; font-size: 30px; font: verdana
-}
-.sabores{
-  background-color: #FF66C4
 }
