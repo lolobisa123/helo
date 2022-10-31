@@ -1,7 +1,9 @@
-img{
-  width:2000px;
-  height:900px;
+.lacasa{
+  margin: 220px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
+
 h1{
   color: red;
   font-size: 50px;
@@ -43,4 +45,7 @@ p{
   color: white;
   font-size: 20px;
   font-family:inherit;
+}
+
+.coreia{
 }
