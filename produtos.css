@@ -39,9 +39,14 @@ h1{
      font-size: 22px;
      text-decoration: none;
    }
-   
+
    p{
      color: white;
      font-size: 25px;
      font-family:inherit;
    }
+
+   footer {
+  text-align: center;
+  background: #BBBBBB
+}
